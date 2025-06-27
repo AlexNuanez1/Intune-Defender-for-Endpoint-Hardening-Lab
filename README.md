@@ -6,8 +6,19 @@
 
 <h2>Tools used: </h2>
   
--  PowerShell
--  Windows 10 (21H2)
+- Microsoft Intune (via Microsoft 365 developer tenant or trial)
+
+- Windows 10/11 Virtual Machine (Hyper-V, VirtualBox, or cloud VM)
+
+- Microsoft 365 Admin Center
+
+- Endpoint Security Policies (within Intune)
+
+- Microsoft Defender for Endpoint (trial via Microsoft Security portal)
+
+- PowerShell (for manual policy checks or enrollment scripts)
+
+- Compliance & configuration profil
 
 <h2>Program walk-through:</h2>
 
