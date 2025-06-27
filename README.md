@@ -2,7 +2,7 @@
 
 <h2> Description: </h2>
 
-- Demonstrate my ability to secure cloud-managed devices, enforce compliance, and respond to threats.
+Demonstrate my ability to secure cloud-managed devices, enforce compliance, and respond to threats.
 
 <h2>Tools used: </h2>
   
