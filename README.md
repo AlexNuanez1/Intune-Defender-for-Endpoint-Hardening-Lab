@@ -2,7 +2,7 @@
 
 <h2> Description: </h2>
 
-Demonstrate my ability to secure cloud-managed devices, enforce compliance, and respond to threats.
+This project shows how to enroll and secure Windows devices using Microsoft Intune and Defender for Endpoint. It includes compliance policy creation, baseline configurations, and real-time threat detection for endpoint security.
 
 <h2>Tools used: </h2>
   
