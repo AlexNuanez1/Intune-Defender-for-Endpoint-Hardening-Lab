@@ -29,3 +29,4 @@ Launch the utility: <br/>
 <br />
 
 <h2> What security outcome was achieved: </h2>
+Endpoint security is critical to maintaining a secure IT environment. This project showcases how I used Microsoft Intune and Defender for Endpoint to configure baseline protections, ensure compliance, and detect threats. It reflects real-world skills in managing secure device fleets, a core responsibility in modern cloud and enterprise security roles.
